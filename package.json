@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hlchanad/code-challenges/issues"
   },
-  "homepage": "https://github.com/hlchanad/code-challenges#readme"
+  "homepage": "https://github.com/hlchanad/code-challenges#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
