@@ -9,3 +9,4 @@ https://www.educative.io/blog/crack-amazon-coding-interview-questions
 - [Level Order Traversal of Binary Tree](https://github.com/hlchanad/code-challenges/blob/master/src/educative/cracking-amazon-coding-interview-questions/05-level-order-traversal.js)
 - [Determine if a binary tree is a binary search tree](https://github.com/hlchanad/code-challenges/blob/master/src/educative/cracking-amazon-coding-interview-questions/06-is-bst.js)
 - [String segmentation](https://github.com/hlchanad/code-challenges/blob/master/src/educative/cracking-amazon-coding-interview-questions/07-can-segment-string.js)
+- [Reverse Words in a Sentence](https://github.com/hlchanad/code-challenges/blob/master/src/educative/cracking-amazon-coding-interview-questions/08-reverse-words.js)
